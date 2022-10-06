@@ -1,0 +1,7 @@
+data {
+    format: NOVATEL_BINARY
+    tcp {
+        address: "192.168.1.110"
+        port: 9904
+    }
+}
